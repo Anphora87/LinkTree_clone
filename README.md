@@ -9,7 +9,7 @@ Il présente les réalisations de Virtupano de façon interactive et responsive,
 
 ## 📸 Aperçu
 
-![Preview du projet](/assets/images/preview.png)
+![Preview du projet](/assets/images/preview.jpg)
 
 ---
 
