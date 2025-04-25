@@ -1,7 +1,7 @@
 # 🌐 Virtupano Linktree Clone
 
 Ce projet est une version simplifiée de [Linktree](https://linktr.ee), développée en **HTML et CSS pur**.  
-Il présente les réalisations de Virtupano de façon interactive et responsive, avec un design **inspiré du glassmorphism & futurism**.
+Il présente les réalisations de Virtupano Visites Virtuelles de façon interactive et responsive, avec un design **inspiré du glassmorphism & futurism**.
 
 💡 Basé sur le template **base_linktree** par [AstroNerf](https://github.com/AstroNerf)
 
